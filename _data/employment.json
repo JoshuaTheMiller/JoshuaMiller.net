@@ -1,0 +1,290 @@
+{
+    "employers":[
+        {
+            "title":"Garmin",
+            "url":"http://www.garmin.com",
+            "image":"images/employers/icon_garmin.png",
+            "short_description":"While officially given the position of Process Engineering Intern, my main duties involved writing applications to solve various problems.",
+            "position":"Process Engineering Intern",
+            "location":"Olathe, KS.",
+            "dateRange":{
+                "start":"May 2015",
+                "end":"Dec 2015"
+            },
+            "notes": [
+                {
+                    "content":"Developed a method to determine which tool set (framework, language, etc.) would be best suited for an application/tool request."
+                },
+                {
+                    "content":"Developed an outline for how programming projects should be documented and controlled using Jira and Confluence."
+                },
+                {
+                    "content":"Honed project management skills by: balancing multiple ongoing tasks, analyzing the ROI of projects, and by dealing with changes in project scope."
+                },
+                {
+                    "content":"Worked independently while taking the initiative to find projects that could improve the quality of the workplace."
+                },
+                {
+                    "content":"Effectively used various means of communication to pull in project resources or general help. This was often done across departments and teams."
+                }
+            ],
+            "tagGroups": [
+                {
+                    "name": "Technologies",
+                    "tags": [
+                        {
+                            "display":"WPF",
+                            "url":"https://docs.microsoft.com/en-us/visualstudio/designers/introduction-to-wpf"
+                        },
+                        {
+                            "display":"C#",
+                            "url":"https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"
+                        },
+                        {
+                            "display":"Jira"                            
+                        },
+                        {
+                            "display":"Confluence"                            
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"C.H. Robinson",
+            "url":"https://www.chrobinson.com/",
+            "image":"images/employers/icon_chr.jpg",   
+            "short_description":"",         
+            "position":"Software Engineer II",
+            "location":"Eden Prairie, MN.",
+            "dateRange":{
+                "start":"June 2018",
+                "end":"Present"
+            },
+            "tagGroups": [
+                {
+                    "name": "Technologies",
+                    "tags": [
+                        {
+                            "display":"GitHub Enterprise"                            
+                        },
+                        {
+                            "display":"Octopus Deploy"                            
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"MCIS",
+            "url":"https://www.marshfieldclinic.org/mcis/",
+            "image":"images/employers/icon_mcis.png",
+            "short_description":"In addition to my role as a developer on the platform team, I also accepted the responsibility of Client Development Lead for our desktop applications.",
+            "position":"Programmer/Analyst",
+            "location":"Marshfield, WI.",
+            "dateRange":{
+                "start":"Feb 2016",
+                "end":"March 2018"
+            },
+            "notes": [   
+                {
+                    "content": "As a member of the platform team, I built building blocks for the application and backend developers using well known design patterns."
+                },  
+                {
+                    "content": "I joined teams as workloads increased so that feature delivery could continue on time."
+                },  
+                {
+                    "content": "As a client lead, I researched and organized learning resources for developers new to desktop development."
+                },  
+                {
+                    "content": "As a client lead, I prepared and hosted knowledge assessments to identify areas where our knowledge as a group was lacking."
+                },     
+                {
+                    "content": "As a client lead, I worked with our lead architect to identify problem areas of our clients and to propose corrective actions."
+                },
+                {
+                    "content":"I rotated between desktop (WPF), SQL, backend development, or a combination of the three depending on the needs of a project."
+                }
+            ],
+            "tagGroups": [
+                {
+                    "name": "Technologies",
+                    "tags": [
+                        {
+                            "display":"WPF",
+                            "url":"https://docs.microsoft.com/en-us/visualstudio/designers/introduction-to-wpf"
+                        },
+                        {
+                            "display":"C#",
+                            "url":"https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"
+                        },
+                        {
+                            "display":"TFS"                            
+                        },
+                        {
+                            "display":"Azure"                            
+                        },
+                        {
+                            "display":"T-SQL"                            
+                        },
+                        {
+                            "display":"LINQ"                            
+                        }
+                    ]
+                },
+                {
+                    "name": "Skills",
+                    "tags": [
+                        {
+                            "display":"Design Patterns"                            
+                        },
+                        {
+                            "display":"MVVM"                            
+                        },
+                        {
+                            "display":"Agile"                            
+                        }                        
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Rockwell Automation",
+            "url":"https://www.rockwellautomation.com/",
+            "image":"images/employers/icon_ra.png",
+            "short_description":"",
+            "position":"Quality Engineering Intern",
+            "location":"Ladysmith, WI.",
+            "dateRange":{
+                "start":"May 2014",
+                "end":"Aug 2014"
+            },
+            "notes": [                
+                {
+                    "content":"Automated data collection and reporting processes by creating Excel documents that utilized VBA."
+                },
+                {
+                    "content":"Documented steps used to create process documentation so that the documents were maintainable and easily consumed."
+                },
+                {
+                    "content":"Utilized time studies to find where process changes will make the most impact."
+                },
+                {
+                    "content":"Applied Lean and Six Sigma methodologies to various processes to improve performance."
+                }
+            ],
+            "tagGroups": [
+                {
+                    "name": "Technologies",
+                    "tags": [
+                        {
+                            "display":"VBA"                            
+                        },
+                        {
+                            "display":"Microsoft Office"                       
+                        }                    
+                    ]
+                },
+                {
+                    "name": "Skills",
+                    "tags": [
+                        {
+                            "display":"Lean Manufacturing"                            
+                        }                       
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"University of Wisconsin - Stout",
+            "url":"http://www.uwstout.edu/",
+            "image":"images/employers/icon_uws.png",
+            "short_description":"",
+            "position":"Supplemental Instructor",
+            "location":"Menomonie, WI.",
+            "dateRange":{
+                "start":"Sep 2013",
+                "end":"May 2014"
+            },
+            "notes": [                
+                {
+                    "content":"I facilitated student learning sessions and helped students better understand concepts or applications of course content. Each semester, I was assigned one course that typically possessed a challenge to newer students. I then attended each class and provided weekly small group sessions covering the course content (lab sessions)."
+                },
+                {
+                    "content":"I helped students learn better studying/learning skills by directing them towards self learning resources. If that was not a good fit for the student, I worked with them to develop a teaching style that fits their needs."
+                }
+            ],
+            "tagGroups": [
+                {
+                    "name": "Technologies",
+                    "tags": [
+                        {
+                            "display":"Visual Basic"                            
+                        },
+                        {
+                            "display":"Android"                       
+                        },
+                        {
+                            "display":"Java"                       
+                        },
+                        {
+                            "display":"C++"                       
+                        }                                              
+                    ]
+                },
+                {
+                    "name": "Skills",
+                    "tags": [
+                        {
+                            "display":"Self guided learning"                            
+                        }                       
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"University of Wisconsin - Stout",
+            "url":"http://www.uwstout.edu/",
+            "image":"images/employers/icon_uws.png",
+            "short_description":"",
+            "position":"Software Developer",
+            "location":"Menomonie, WI.",
+            "dateRange":{
+                "start":"May 2012",
+                "end":"Aug 2014"
+            },
+            "notes": [                
+                {
+                    "content":"Design/build/test a program to use past student records data to predict class enrollment patterns."
+                }
+            ],
+            "tagGroups": [
+                {
+                    "name": "Technologies",
+                    "tags": [
+                        {
+                            "display":"Python 2.7"                            
+                        },
+                        {
+                            "display":"PyQt"                       
+                        },
+                        {
+                            "display":"Eclipse"                       
+                        },
+                        {
+                            "display":"Matplotlib"                       
+                        }                                              
+                    ]
+                },
+                {
+                    "name": "Skills",
+                    "tags": [
+                        {
+                            "display":"Remote development"                            
+                        }                       
+                    ]
+                }
+            ]
+        }               
+    ]
+}
