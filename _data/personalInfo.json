@@ -2,7 +2,7 @@
     "firstName":"Joshua",
     "lastName": "Miller",
     "profileImagePath":"images/profile.png",
-    "description":"I am currently a Software Engineer II at C.H. Robinson in Eden Prairie, MN. I come from a C#, ASP.Net Core, and WPF desktop development background, but have been prototyping with some other, also modern, web technologies.",
+    "description":"I am currently a Senior Software Engineer at Optum in Eden Prairie, MN. I come from a C#, ASP.Net Core, and WPF desktop development background, but have been prototyping with some other, also modern, web technologies.",
     "personalLinks": [
         {
             "displayText":"resume@joshuadmiller.info",
