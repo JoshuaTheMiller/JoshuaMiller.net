@@ -103,10 +103,10 @@
             "url":"https://github.com/JoshuaTheMiller/Simple-Resume",
             "notes": [
                 {
-                    "content":"Planned improvements: utilize well known CSS framework, find better icons, convert it to an actual Jekyll theme (once deemed complete)."
+                    "content":"Planned improvements: utilize well known CSS framework, find better icons."
                 },
                 {
-                    "content":"Planned improvements: use Gulp to add prefixes to CSS so that the sites made with the theme are, for the most part, cross-browser compatible."
+                    "content":"Updates to this theme previously deployed via a clever use of Travis-CI, which is now not needed due to usage of 'jekyll-remote-theme'."
                 }
             ],
             "tagGroups": [
@@ -120,9 +120,6 @@
                         {
                             "display":"Jekyll",
                             "url":"https://jekyllrb.com/"
-                        },
-                        {
-                            "display":"Grunt"                            
                         }
                     ]
                 }
