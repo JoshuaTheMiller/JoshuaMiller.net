@@ -1,6 +1,37 @@
 {
     "employers":[
         {
+            "title":"Optum",
+            "url":"https://www.optum.com/",
+            "image":"images/employers/icon_optum.jpg",   
+            "short_description":"",         
+            "position":"Senior Software Engineer",
+            "location":"Eden Prairie, MN.",
+            "dateRange":{
+                "start":"2019-01-07",
+                "end":"Present"
+            },
+            "tagGroups": [
+                {
+                    "name": "Technologies",
+                    "tags": [
+                        {
+                            "display":"GitHub Enterprise"                            
+                        },
+                        {
+                            "display":"Azure DevOps"                            
+                        },
+                        {
+                            "display":"Azure Public/Stack/Pack"                            
+                        },
+                        {
+                            "display":"ASP.Net Core"                            
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "title":"Garmin",
             "url":"http://www.garmin.com",
             "image":"images/employers/icon_garmin.png",
