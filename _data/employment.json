@@ -26,6 +26,12 @@
                         },
                         {
                             "display":"ASP.Net Core"                            
+                        },
+                        {
+                            "display":"AWS"                            
+                        },
+                        {
+                            "display":"Terraform"                            
                         }
                     ]
                 }
