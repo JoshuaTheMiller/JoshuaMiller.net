@@ -98,6 +98,23 @@
                 "start":"2018-06-01",
                 "end":"2018-12-01"
             },
+             "notes": [
+                {
+                    "content":"Implement new backend functionality following our microservice architecture."
+                },
+                {
+                    "content":"Review code as necessary to maintain the quality of our codebase while remaining open to innersourcing needs."
+                },
+                {
+                    "content":"Uplift legacy VB and C# functionality where appropriate."
+                },
+                {
+                    "content":"Maintain legacy VB.Net and .Net applications. "
+                },
+                {
+                    "content":"Promote better collaboration and shared practices through participation on an internal innersourcing Council."
+                }
+            ],
             "tagGroups": [
                 {
                     "name": "Technologies",
@@ -110,6 +127,15 @@
                         },
                         {
                             "display":"C#"                            
+                        }
+                    ]
+                },
+                {
+                    "name": "Practices",
+                    "tags": [
+                        {
+                            "display":"Innersourcing",
+                            "url":"https://resources.github.com/whitepapers/introduction-to-innersource/"
                         }
                     ]
                 }
