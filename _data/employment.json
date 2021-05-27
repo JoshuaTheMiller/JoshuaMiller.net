@@ -11,6 +11,17 @@
                 "start":"2019-01-07",
                 "end":"Present"
             },
+            "notes": [
+                {
+                    "content":"Work with business folks and users of the systems to identify opportunities for improvement and hone feature requests."
+                },
+                {
+                    "content":"A maintainer of the internal GitHub Probot Organization. I joined to empower developers/engineers by providing tools that promote better practices and that provide automation of monotonous tasks."
+                },
+                {
+                    "content":"Promote better practices and upskill/empower teams via position on the GitHub Enterprise Best Practices Committee"
+                }
+            ],
             "tagGroups": [
                 {
                     "name": "Technologies",
