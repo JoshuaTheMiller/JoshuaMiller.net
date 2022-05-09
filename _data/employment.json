@@ -5,11 +5,23 @@
             "url":"https://www.optum.com/",
             "image":"images/employers/icon_optum.jpg",   
             "short_description":"",         
+            "position":"Lead Software Engineer",
+            "location":"Eden Prairie, MN.",
+            "dateRange":{
+                "start":"2022-02-13",
+                "end":"Present"
+            }
+        },
+        {
+            "title":"Optum",
+            "url":"https://www.optum.com/",
+            "image":"images/employers/icon_optum.jpg",   
+            "short_description":"",         
             "position":"Senior Software Engineer",
             "location":"Eden Prairie, MN.",
             "dateRange":{
                 "start":"2019-01-07",
-                "end":"Present"
+                "end":"2022-02-13"
             },
             "notes": [
                 {
