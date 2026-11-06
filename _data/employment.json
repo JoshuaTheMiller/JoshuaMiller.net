@@ -1,6 +1,34 @@
 {
     "employers":[
         {
+            "title":"Yardstik",
+            "url":"https://yardstik.com/",
+            "image":"images/employers/icon_yardstik.png",
+            "short_description":"",
+            "position":"Staff Software Engineer",
+            "location":"Minneapolis, MN.",
+            "dateRange":{
+                "start":"2026-07-06",
+                "end":"Present"
+            },
+            "tagGroups": [
+                {
+                    "name": "Technologies",
+                    "tags": [
+                        {
+                            "display":"Ruby"
+                        },
+                        {
+                            "display":"Claude Code"
+                        },
+                        {
+                            "display":"AWS"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "title":"Optum",
             "url":"https://www.optum.com/",
             "image":"images/employers/icon_optum.jpg",   
@@ -9,7 +37,7 @@
             "location":"Eden Prairie, MN.",
             "dateRange":{
                 "start":"2022-06-01",
-                "end":"Present"
+                "end":"2026-06-02"
             }
         },
         {
