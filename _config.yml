@@ -9,4 +9,4 @@ sass:
 plugins:
     - jekyll-remote-theme
     
-remote_theme: JoshuaTheMiller/Simple-Resume
+remote_theme: JoshuaTheMiller/Simple-Resume@v1.0.0
