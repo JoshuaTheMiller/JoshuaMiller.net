@@ -9,7 +9,6 @@
 .jekyll-cache
 .sass-cache
 _site
-Gemfile.lock
 .jekyll-metadata
 
 # User-specific files
